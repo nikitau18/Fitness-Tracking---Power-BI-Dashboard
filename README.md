@@ -38,11 +38,11 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 <img width="773" height="432" alt="3" src="https://github.com/user-attachments/assets/e0deaaa3-0861-4cfe-b531-a79096afcfb8" />
 
 ## Project Insights
-•	Running & Strength workouts generated the highest steps, showing they are more step-intensive compared to Yoga & Cycling.
-•	High-intensity workouts resulted in the maximum calories burned, but also showed higher heart rate spikes, which may need monitoring for certain users.
-•	Weekend workouts had a longer average duration compared to weekdays, indicating users are more consistent and active during weekends.
-•	Male and female users showed nearly balanced step counts, but calorie burn distribution varied by workout type (e.g., males preferred strength training, females engaged more in yoga).
-•	Workout intensity analysis revealed that medium-intensity workouts contributed the most sustainable calorie burn without excessive heart rate rise.
+•	Running & Strength workouts generated the highest steps, showing they are more step-intensive compared to Yoga & Cycling.<br>
+•	High-intensity workouts resulted in the maximum calories burned, but also showed higher heart rate spikes, which may need monitoring for certain users.<br>
+•	Weekend workouts had a longer average duration compared to weekdays, indicating users are more consistent and active during weekends.<br>
+•	Male and female users showed nearly balanced step counts, but calorie burn distribution varied by workout type (e.g., males preferred strength training, females engaged more in yoga).<br>
+•	Workout intensity analysis revealed that medium-intensity workouts contributed the most sustainable calorie burn without excessive heart rate rise.<br>
 
 ## Final Conclusion
 Analysis showed that workout intensity and type are key drivers of calorie burn, with weekends seeing higher engagement.
