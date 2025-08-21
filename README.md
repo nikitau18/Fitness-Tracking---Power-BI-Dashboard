@@ -33,10 +33,16 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 
 ## Dashboard Screenshots
 
-<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/1.PNG"> 1 </a>
-<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/2.PNG"> 2 </a>
-<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/3.PNG"> 3 </a>
+<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/1.PNG"> 1 </a> <br>
+<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/2.PNG"> 2 </a> <br>
+<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/3.PNG"> 3 </a> <br>
 
+## Project Insights
+•	Running & Strength workouts generated the highest steps, showing they are more step-intensive compared to Yoga & Cycling.
+•	High-intensity workouts resulted in the maximum calories burned, but also showed higher heart rate spikes, which may need monitoring for certain users.
+•	Weekend workouts had a longer average duration compared to weekdays, indicating users are more consistent and active during weekends.
+•	Male and female users showed nearly balanced step counts, but calorie burn distribution varied by workout type (e.g., males preferred strength training, females engaged more in yoga).
+•	Workout intensity analysis revealed that medium-intensity workouts contributed the most sustainable calorie burn without excessive heart rate rise.
 
 
 
