@@ -10,7 +10,6 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 ## Questions(KPI)
 
 •	What is the average heart rate across users?<br>
-
 •	What is the average calories burned per user?<br>
 •	What is the average workout duration?<br>
 •	What is the average calories burned compared to total calories?<br>
