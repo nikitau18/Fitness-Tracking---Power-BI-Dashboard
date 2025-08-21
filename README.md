@@ -34,9 +34,8 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 ## Dashboard Screenshots
 
 <img width="771" height="435" alt="1" src="https://github.com/user-attachments/assets/1f553f63-cd5e-44ac-b64c-6cf2b7e2d883" />
-
-<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/2.PNG"> img 2 </a> <br>
-<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/3.PNG"> img 3 </a> <br>
+<img width="775" height="432" alt="2" src="https://github.com/user-attachments/assets/7d3966e1-10e1-4a0e-a474-44ce5239c62e" />
+<img width="773" height="432" alt="3" src="https://github.com/user-attachments/assets/e0deaaa3-0861-4cfe-b531-a79096afcfb8" />
 
 ## Project Insights
 •	Running & Strength workouts generated the highest steps, showing they are more step-intensive compared to Yoga & Cycling.
