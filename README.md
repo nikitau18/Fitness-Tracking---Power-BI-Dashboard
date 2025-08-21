@@ -33,6 +33,9 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 
 ## Dashboard Screenshots
 
+<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/1.PNG"> 1 </a>
+<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/2.PNG"> 2 </a>
+<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/3.PNG"> 3 </a>
 
 
 
