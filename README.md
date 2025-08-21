@@ -1,12 +1,14 @@
 # Fitness Tracking- Power BI Dashboard
 
-##Project Objective
+## Project Objective
+
 Created a fitness tracking dashboard with interactive visuals for activity monitoring.  Showcased trends in steps, calories, heart rate, and workout types.  Designed insights to make fitness tracking simple, data-driven, and actionable.
 
-##Dataset Used
+## Dataset Used
 -<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/fitness%20tracking.xlsx"> Dataset</a>
 
-##Questions(KPI)
+## Questions(KPI)
+
 •	What is the average heart rate across users?
 •	What is the average calories burned per user?
 •	What is the average workout duration?
