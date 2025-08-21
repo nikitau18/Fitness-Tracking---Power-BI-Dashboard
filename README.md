@@ -6,6 +6,19 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 ##Dataset Used
 -<a href="https://github.com/nikitau18/Fitness-Tracking---Power-BI-Dashboard/blob/main/fitness%20tracking.xlsx"> Dataset</a>
 
+##Questions(KPI)
+•	What is the average heart rate across users?
+•	What is the average calories burned per user?
+•	What is the average workout duration?
+•	What is the average calories burned compared to total calories?
+•	How does heart rate relate to body weight and calories burned?
+•	What are the trends in workout duration by workout type?
+•	How does heart rate vary by intensity levels?
+•	What is the relationship between intensity and calories burned across weekday types?
+•	How are users distributed by intensity and workout duration?
+•	How does weekday vs. weekend workout duration differ?
+•	What is the average calories burned daily?
+•	Many More…..
 
 
 
