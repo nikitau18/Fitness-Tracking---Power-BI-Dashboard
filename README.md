@@ -44,6 +44,21 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 •	Male and female users showed nearly balanced step counts, but calorie burn distribution varied by workout type (e.g., males preferred strength training, females engaged more in yoga).
 •	Workout intensity analysis revealed that medium-intensity workouts contributed the most sustainable calorie burn without excessive heart rate rise.
 
+## Final Conclusion
+Analysis showed that workout intensity and type are key drivers of calorie burn, with weekends seeing higher engagement.
+Findings highlight the need for personalized plans and motivation strategies to improve fitness consistency.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
