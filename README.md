@@ -31,6 +31,7 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 •	Then Created various visuals and Grouped dashboards by analysis theme: Workout Type, Intensity, and Gender.<br>
 
 
+## Dashboard Screenshots
 
 
 
