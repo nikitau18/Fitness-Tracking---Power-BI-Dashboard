@@ -9,11 +9,11 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 
 ## Questions(KPI)
 
-•	What is the average heart rate across users?
-•	What is the average calories burned per user?
-•	What is the average workout duration?
-•	What is the average calories burned compared to total calories?
-•	How does heart rate relate to body weight and calories burned?
+•	What is the average heart rate across users?<br>
+•	What is the average calories burned per user?<br>
+•	What is the average workout duration?<br>
+•	What is the average calories burned compared to total calories?<br>
+•	How does heart rate relate to body weight and calories burned?<br>
 •	What are the trends in workout duration by workout type?
 •	How does heart rate vary by intensity levels?
 •	What is the relationship between intensity and calories burned across weekday types?
