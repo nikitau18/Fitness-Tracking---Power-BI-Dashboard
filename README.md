@@ -14,13 +14,21 @@ Created a fitness tracking dashboard with interactive visuals for activity monit
 •	What is the average workout duration?<br>
 •	What is the average calories burned compared to total calories?<br>
 •	How does heart rate relate to body weight and calories burned?<br>
-•	What are the trends in workout duration by workout type?
-•	How does heart rate vary by intensity levels?
-•	What is the relationship between intensity and calories burned across weekday types?
-•	How are users distributed by intensity and workout duration?
-•	How does weekday vs. weekend workout duration differ?
-•	What is the average calories burned daily?
-•	Many More…..
+•	What are the trends in workout duration by workout type?<br>
+•	How does heart rate vary by intensity levels?<br>
+•	What is the relationship between intensity and calories burned across weekday types?<br>
+•	How are users distributed by intensity and workout duration?<br>
+•	How does weekday vs. weekend workout duration differ?<br>
+•	What is the average calories burned daily?<br>
+•	Many More…..<br>
+
+## Process
+•	Gathered raw fitness tracking data with various fields. Removed duplicates and null values.<br>
+•	Standardized workout types (Running, Cycling, Yoga, Strength).<br>
+•	Created calculated fields (e.g., Avg Calories Burned, Avg Workout Duration). Categorized data (Weekday vs Weekend, Intensity levels).<br>
+•	Built relationships between user, workout, and activity tables.<br>
+•	Created DAX measures (e.g., Total Steps, Avg Calories Burned, Steps Trend).<br>
+•	Then Created various visuals and Grouped dashboards by analysis theme: Workout Type, Intensity, and Gender.<br>
 
 
 
